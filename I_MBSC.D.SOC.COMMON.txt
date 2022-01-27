@@ -1,5 +1,9 @@
 COM/MBSC.D.SOC/FT.NAME,
 FT.PATH,
 TXN.N,
+<<<<<<< HEAD
 TXN.PATH
 ______________________________________________________AAAAAAAAAAAAAAAAAAAAAA
+=======
+TXN.PATH
+>>>>>>> 25b3409 (this first commit)
